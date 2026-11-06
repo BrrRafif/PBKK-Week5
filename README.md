@@ -1,4 +1,4 @@
-# F-TEIC Student Management System
+# F-ELECTICS Student Management System
 
 ### Nama: Berwyn Rafif Alvaro
 ### NRP: 5025241029
